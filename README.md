@@ -23,7 +23,13 @@ This project focuses on analyzing business sales data to identify revenue trends
 - Focus on high-performing products in the Technology category  
 - Expand business in high-performing regions like the West  
 - Improve cost and pricing strategies to increase profit margins  
-- Strengthen performance in low-performing categories  
+- Strengthen performance in low-performing categories
+- 
+- ## 📊 Dashboard Preview
+This project includes visual dashboards with:
+- Sales trends over time
+- Region-wise performance
+- Category-wise analysis
 
 ## 📄 Conclusion
 The analysis provides valuable insights into business performance and helps in making data-driven decisions to improve growth and profitability.
